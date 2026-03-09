@@ -17,7 +17,7 @@
 
 * Exemplo de um evento interativo:
 
-<img width="522" height="529" alt="image" src="https://github.com/user-attachments/assets/f5a65a1f-892e-485e-bd9f-cc4c8874fe2a" />
+<img width="515" height="532" alt="image" src="https://github.com/user-attachments/assets/de2a3f2a-9cf6-4133-be75-e757db5dc696" />
 
 * Formulário para criação de eventos:
 
@@ -31,7 +31,7 @@
 
 * Exemplo de notificação:
 
-![Captura de tela de 2025-04-13 22-59-44](https://github.com/user-attachments/assets/d6d49f1d-f44f-493a-b9de-2fcc93f21a51)
+<img width="506" height="468" alt="image" src="https://github.com/user-attachments/assets/88bbbf84-7a64-4c30-b64b-c61e7356ab17" />
 
 ### Notificar entrada e saída de membros:
 
