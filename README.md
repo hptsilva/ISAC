@@ -1,5 +1,5 @@
 <p align="center" dir=auto>
-  <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/69fd42c6-7b00-42cf-a786-3559ac3846be" />
+  <img width="120" height="120" alt="146d9cd19114fea184b2d3b4733c04bd" src="https://github.com/user-attachments/assets/601d6d2b-7655-42af-938b-f63b1521def5" />
 </p>
 <div class="markdown-heading">
   <h3 class="heading-element" align="center" dir=auto>ISAC</h3>
@@ -17,11 +17,7 @@
 
 * Exemplo de um evento interativo:
 
-<img width="515" height="532" alt="image" src="https://github.com/user-attachments/assets/de2a3f2a-9cf6-4133-be75-e757db5dc696" />
-
-* Formulário para criação de eventos:
-
-<img width="473" height="716" alt="image" src="https://github.com/user-attachments/assets/90c3720c-bcfc-44ec-a82a-474df7b8e2b3" />
+<img width="504" height="527" alt="image" src="https://github.com/user-attachments/assets/653f0b73-add1-48c5-86ca-def4a42181cf" />
 
 ### Notificações de lives da Twitch:
 
@@ -31,17 +27,17 @@
 
 * Exemplo de notificação:
 
-<img width="506" height="468" alt="image" src="https://github.com/user-attachments/assets/88bbbf84-7a64-4c30-b64b-c61e7356ab17" />
+<img width="505" height="463" alt="image" src="https://github.com/user-attachments/assets/cb46cb20-e1f0-477b-8266-951021b682db" />
 
 ### Notificar entrada e saída de membros:
 
 * Mensagem de entrada de membro:
 
-![image](https://github.com/user-attachments/assets/aeda6ec9-c836-4b74-81e1-d0842300dea7)
+<img width="513" height="182" alt="image" src="https://github.com/user-attachments/assets/449e1d06-2a60-4252-bc20-37c8ae4d4c4b" />
 
 * Mensagem de saída de membro:
 
-![image](https://github.com/user-attachments/assets/f8410d93-dd61-4746-aa90-6692c9841711)
+<img width="466" height="155" alt="image" src="https://github.com/user-attachments/assets/d9ab9539-403d-403f-a05b-6672aa32a498" />
 
 **\* Ambas as mensagens podem ser alteradas.** 
 
