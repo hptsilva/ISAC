@@ -45,7 +45,7 @@
 
  {parâmetro!} => Parâmetro opcional.
 
-> * **/aleatorio {valor}** : Gera um número aleatório de 1 até o valor especificado.
+> * **/roll {valor}** : Gera um número aleatório de 1 até o valor especificado.
 > * **/almanax {data!}** : Mostre o item a ser ofertado no Santuário do Almanax no jogo Dofus 3.
 > * **/avatar {membro!}** : Veja a foto de perfil do membro do servidor.
 > * **/banir {membro} {motivo!}** : Bane o membro do servidor.
@@ -103,14 +103,15 @@ O desenvolvedor do Bot reserva-se o direito de encerrar ou suspender o acesso ao
 Ao utilizar o **ISAC**, você concorda com esta Política de Privacidade. Nosso compromisso é garantir a transparência e a segurança das informações tratadas pelo software.
 
 ### 1. Coleta e Tratamento de Dados
-O ISAC coleta e armazena dados estritamente necessários para a execução de suas funcionalidades:
-* **Informações do Servidor:** Armazenamos o ID e o nome do servidor para identificação e gerenciamento de configurações.
-* **Configurações de Canais e Cargos:** Registramos IDs de canais (boas-vindas, saída, Twitch) e IDs de cargos para automação de mensagens e atribuições.
-* **Conteúdo Personalizado:** Armazenamos títulos, textos e URLs de imagens fornecidos para a customização das mensagens de entrada e saída.
-* **Integração com Twitch:** Para o sistema de notificações, processamos IDs de usuários da Twitch e identificadores de lives.
-* **Segurança e Moderação:** Registramos IDs de administradores e nomes de usuário para controle de servidores banidos e motivos de exclusão.
-* **Suporte e Diagnóstico:** Registramos exceções e erros técnicos, que podem incluir o comando utilizado, o ID do servidor e o ID do autor do comando, visando a resolução de problemas e melhoria da estabilidade.
-* **Conteúdo de Mensagens:** O bot **não armazena** o conteúdo das mensagens trocadas entre membros no servidor. Somente as interações diretas com os comandos do bot e configurações enviadas são processadas.
+O ISAC opera sob o princípio da minimização de dados, coletando e armazenando apenas as informações estritamente necessárias para a execução de suas funcionalidades. Dados que coletamos e a finalidade de uso:
+* **Identificação e Configuração do Servidor:** Armazenamos o ID e o nome do servidor, bem como os IDs de canais (boas-vindas, saída, Twitch) e de cargos, para garantir o correto funcionamento das automações e gerenciamento do bot.
+* **Customização de Conteúdo:** Registramos os textos (títulos e descrições) e as URLs de imagens fornecidos pelos administradores para personalizar as mensagens de entrada e saída.
+* **Integrações de Terceiros (Twitch):** Processamos IDs de usuários da plataforma e identificadores de transmissões ao vivo exclusivamente para operar o sistema de notificações de lives.
+* **Segurança e Moderação:** Armazenamos IDs e nomes dos usuários que interagem com o bot, além de manter um registro de servidores banidos (com seus respectivos motivos), para garantir o controle de acesso e a segurança do bot.
+* **Diagnóstico e Estabilidade (Logs):** Para fins de suporte técnico e correção de falhas, registramos erros e exceções. Esses logs podem conter o comando utilizado, IDs do autor e do servidor, requisições feitas à API do Discord e queries do banco de dados, sendo utilizados exclusivamente para a manutenção da infraestrutura.
+
+O que **NÃO** coletamos:
+* **Conteúdo de Mensagens:** O bot não lê, não monitora e não armazena o conteúdo das mensagens trocadas entre os membros nos canais. O processamento se restringe unicamente às interações diretas com os comandos do bot e aos parâmetros de configuração enviados pelos administradores.
 
 ### 2. Segurança da Informação
 Implementamos medidas técnicas e administrativas para proteger seus dados contra acessos não autorizados:
@@ -125,7 +126,7 @@ Implementamos medidas técnicas e administrativas para proteger seus dados contr
 
 ### 4. Direitos do Titular
 Você, como usuário, possui os seguintes direitos garantidos por lei:
-* Confirmar a existência do tratamento e acessar seus dados pessoais.
+* Acessar seus dados coletados.
 * Corrigir dados incompletos, inexatos ou desatualizados.
 * Solicitar a eliminação de dados tratados com seu consentimento ou desnecessários.
 * Revogar o consentimento a qualquer momento.
